@@ -4,7 +4,7 @@
   "description": "Tuulivoimalan grafiikka Joy-IT RB-TFT1.8 -naytolle",
   "dependencies": {
     "core": "*",
-    "joy-it/pxt-rb-tft1.8": "v1.0.6"
+    "RB-TFT1.8": "github:joy-it/pxt-RB-TFT1.8#v1.0.6"
   },
   "files": [
     "main.ts"
