@@ -1,0 +1,15 @@
+TUULIVOIMALA-MAKECODE – TIEDOSTOT
+
+Tiedostot:
+- pxt.json: MakeCode-paketin määritys ja riippuvuus Joy-IT RB-TFT1.8 v1.0.6 -pakettiin
+- main.ts: oma MakeCode-lohko tuulivoimalan kuvan ja nopeuslukeman näyttämiseen
+- tuulivoimala_tausta_128x160.png: muunnetun taustakuvan esikatselu
+
+Käyttö:
+1. Lisää nämä tiedostot GitHub-repositorion juureen.
+2. Commit changes.
+3. Kun tiedostot ovat julkisesti saatavilla, lisää MakeCodeen laajennus URL-osoitteella:
+   https://github.com/CRBG4X/tuulivoimala-makecode
+
+HUOM:
+Tämä paketti on lähdekoodiluonnos. Se on tarkistettu Joy-IT:n dokumentoidun API:n ja värien nimien perusteella, mutta sitä ei ole vielä käännetty MakeCode-ympäristössä eikä testattu laitteella. MakeCode/PXT:n TypeScript-tuki ja muistirajat on siksi varmistettava ensimmäisellä tuontikerralla. Jos käännös antaa virheen, lähetä virheilmoituksen kuva niin korjaan tiedostot.
